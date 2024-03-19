@@ -1,0 +1,2 @@
+./mission_rescue sampleIO/sectors.dat sampleIO/simple_planet_train.dat
+./mission_rescue sampleIO/sectors_sorted.dat sampleIO/simple_planet_train.dat
